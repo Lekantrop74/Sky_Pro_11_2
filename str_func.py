@@ -1,6 +1,6 @@
 def up(input_srt: str) -> str:
     """
-    add docstring
+    add docstring_1
     """
     return input_srt.upper()
 
