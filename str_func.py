@@ -9,3 +9,5 @@ def cap(input_str: str) ->str:
     add  docstring_2
     """
     return input_str.capitalize()
+
+print("hotfix")
